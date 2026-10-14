@@ -14,8 +14,3 @@ I recently completed my master's thesis at NASA Jet Propulsion Laboratory, worki
 ## 🌱 Currently Learning
 - Control systems for spacecraft and robotics   
 
-## 📫 How to reach me
-- Email: [charlotte.heibig@outlook.fr](mailto:charlotte.heibig@outlook.fr)  
-- LinkedIn: [linkedin.com/in/charlotte-heibig](https://www.linkedin.com/in/charlotte-heibig)  
-- Portfolio: *coming soon*  
-
