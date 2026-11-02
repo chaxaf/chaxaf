@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Charlotte, and I just graduated from EPFL with a Master in Electrical and Electronic Engineering. I am passionate about Aerospace and space exploration.  
+I just graduated from EPFL with a Master in Electrical and Electronic Engineering. I am passionate about Aerospace and space exploration.  
 I recently completed my master's thesis at NASA Jet Propulsion Laboratory, working on a novel EDL (Entry, Descent, and Landing) method for future Mars missions. I also enjoy designing and programming PCBs for various space applications.
 
 ## 🔧 Skills & Interests
